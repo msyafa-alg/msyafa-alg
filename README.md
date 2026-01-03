@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Halo, gue anak SMK yang suka ngulik hal-hal IT yang menurut gue menarik dan simpel.<br><br>Gue fokus ke hal praktis kayak:<br>- VPS & hosting  <br>- Server & panel (Pterodactyl, node, dll)  <br>- Domain & Cloudflare  <br>- Cyber security (belajar pelan-pelan, dari hal basic)<br><br>Gue tipe yang belajar dari praktik langsung:  <br>coba → error → bongkar → paham.<br><br>Semua repo di sini kebanyakan hasil ngulik, eksperimen, dan rasa penasaran sendiri.<br>Masih belajar, masih banyak salah, tapi jalan terus 🚀<br>
+👋 Halo, Saya anak SMK yang suka ngulik hal-hal IT yang menurut gue menarik dan simpel.<br><br>Saya fokus ke hal praktis kayak:<br>- VPS & hosting  <br>- Server & panel (Pterodactyl, node, dll)  <br>- Domain & Cloudflare  <br>- Cyber security (belajar pelan-pelan, dari hal basic)<br><br>Gue tipe yang belajar dari praktik langsung:  <br>coba → error → bongkar → paham.<br><br>Semua repo di sini kebanyakan hasil ngulik, eksperimen, dan rasa penasaran sendiri.<br>Masih belajar, masih banyak salah, tapi jalan terus 🚀<br>
 
 
 ## 🌐 Socials:
