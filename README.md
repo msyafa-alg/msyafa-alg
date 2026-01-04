@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Halo, Saya anak SMK yang suka ngulik hal-hal IT yang menurut saya menarik dan simpel.<br><br>Saya fokus ke hal praktis kayak:<br>- VPS & hosting  <br>- Server & panel (Pterodactyl, node, dll)  <br>- Domain & Cloudflare  <br>- Cyber security (belajar pelan-pelan, dari hal basic)<br><br>Saya tipe yang belajar dari praktik langsung:  <br>coba → error → bongkar → paham.<br><br>Semua repo di sini kebanyakan hasil ngulik, eksperimen, dan rasa penasaran sendiri.<br>Masih belajar, masih banyak salah, tapi jalan terus 🚀<br>
+👋 Halo, Saya anak SMK yang suka ngulik hal-hal IT yang menurut saya menarik dan simpel.<br><br>Saya fokus ke hal praktis kayak:<br>- VPS & hosting  <br>- Server & panel (Pterodactyl, node, dll)  <br>- Domain & Cloudflare  <br>- Cyber security (belajar pelan-pelan, dari hal basic)<br><br>Saya tipe yang belajar dari praktik langsung:  <br>coba → error → bongkar → paham.<br><br>Semua repo di sini kebanyakan hasil ngulik, eksperimen, dan rasa penasaran sendiri.<br>Masih belajar, masih banyak salah, tapi jalan terus 🚀  By the way saya juga jualan vps DigitalOcean lohh jika minat bisa hubungi nomor whatsapp ini 0881012439827<br>
 
 
 ## 🌐 Socials:
