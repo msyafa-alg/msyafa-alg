@@ -1,100 +1,108 @@
-# 👋 Halo, gue Syafa
+# Hi, I'm Syafa 👋
 
-💻 Anak SMK yang suka ngulik dunia IT dari sisi **praktis & real-world**.
-Buat gue, belajar terbaik itu bukan dari teori — tapi dari:
+> SMK Student • Full-Stack Developer • Infrastructure Enthusiast
 
-> coba → error → bongkar → paham → repeat 🔁
+I enjoy building web applications, deploying servers, and learning how systems work behind the scenes. I believe the best way to learn technology is by building real projects, breaking things, fixing them, and understanding why they work.
 
----
-
-## 🚀 Fokus yang Lagi Gue Tekunin
-
-🔹 VPS & Hosting deployment
-🔹 Server & panel (Pterodactyl, node environment, Linux setup)
-🔹 Domain management & Cloudflare optimization
-🔹 Cyber security (mulai dari basic & practical defense)
-🔹 Automation & workflow simplification
+Currently focused on improving my skills in backend development, cloud infrastructure, automation, and security.
 
 ---
 
-## 🧠 Cara Gue Belajar
+## 🚀 What I'm Working On
 
-✔ belajar dari praktik langsung
-✔ eksplorasi & eksperimen sendiri
-✔ troubleshooting sampai akar masalah
-✔ memahami sistem, bukan cuma pakai
-
-Sebagian besar repo di sini adalah hasil:
-**ngulik • eksperimen • rasa penasaran**
-
-Masih belajar. Masih banyak salah.
-Tapi tetap jalan terus 🚀
+- 🌐 Building full-stack web applications
+- ☁️ VPS & Cloud deployment
+- ⚙️ Linux server administration
+- 🔒 Learning practical cyber security & defensive concepts
+- 🤖 Automation to simplify repetitive tasks
 
 ---
 
-## 🌐 Connect With Me
+## 🧠 My Learning Philosophy
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram\&logoColor=white)](https://instagram.com/syafaalgiffari)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/syafa-algiffari-567a48375/)
+I prefer learning by doing.
 
----
+Instead of only reading documentation, I enjoy:
 
-## 🛠 Tech & Tools I Use
+- Building real projects
+- Solving real problems
+- Troubleshooting until I understand the root cause
+- Continuously improving my workflow
 
-### ⚙️ Backend & Server
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
-
-### ☁️ Cloud & Infrastructure
-
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge\&logo=cloudflare\&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0167ff?style=for-the-badge\&logo=digitalocean\&logoColor=white)
-![Vultr](https://img.shields.io/badge/Vultr-007BFC?style=for-the-badge\&logo=vultr\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge\&logo=netlify\&logoColor=00C7B7)
-
-### 💻 Development
-
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
-
-### 🎨 UI & Design
-
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-![Canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
+Every repository on this profile represents something I've explored, experimented with, or built while learning.
 
 ---
 
-## 📊 GitHub Stats
+# ⚡ Tech Stack
 
-![](https://github-readme-stats.vercel.app/api?username=msyafa-alg\&theme=tokyonight\&hide_border=true\&show_icons=true)
-![](https://nirzak-streak-stats.vercel.app/?user=msyafa-alg\&theme=tokyonight\&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=msyafa-alg\&theme=tokyonight\&hide_border=true\&layout=compact)
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql" />
+</p>
+
+### Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,nginx,docker,cloudflare" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,bash" />
+</p>
 
 ---
 
-## 🏆 Achievements
+# 📈 GitHub Statistics
 
-![](https://github-profile-trophy.vercel.app/?username=msyafa-alg\&theme=algolia\&no-frame=true\&no-bg=true\&margin-w=6)
+<p align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=msyafa-alg&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## 💭 Dev Quote of the Day
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msyafa-alg&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
-
----
-
-## 📈 Profile Visitors
-
-![](https://visitcount.itsvg.in/api?id=msyafa-alg\&icon=5\&color=6)
+</p>
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+# 🌐 Connect With Me
+
+<p>
+
+<a href="https://instagram.com/syafaalgiffari">
+<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/syafa-algiffari-567a48375/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 📌 Current Goals
+
+- Build production-ready web applications
+- Improve backend architecture skills
+- Learn DevOps and cloud infrastructure
+- Deepen understanding of application security
+- Contribute to open-source projects
+
+---
+
+<p align="center">
+
+Thanks for stopping by 👋
+
+Always learning. Always building.
+
+</p>
