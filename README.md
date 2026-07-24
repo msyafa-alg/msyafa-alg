@@ -1,147 +1,62 @@
-# Hi there, I'm Syafa 👋
+<div align="center">
 
-### Full-Stack Web Developer • Backend Enthusiast • Infrastructure Learner
+# Halo, Saya Syafa 👋  
+### 🎓 SMK Student • 💻 Full-Stack Developer • ☁️ Infrastructure Enthusiast  
 
-I'm a vocational high school student passionate about building modern web applications and exploring how software works behind the scenes.
+*Suka membangun aplikasi web, mendegradasi/deploy server, dan mengulik sistem di balik layar.*
 
-I enjoy turning ideas into real products—from designing responsive interfaces to developing REST APIs, deploying applications, and managing Linux servers.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/syafaalgiffari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syafa-algiffari-567a48375/)
 
-Currently expanding my knowledge in backend architecture, cloud infrastructure, DevOps, and application security.
-
----
-
-## 🚀 About Me
-
-- 💻 Building full-stack web applications
-- ⚡ Developing REST APIs with Laravel & Node.js
-- ☁️ Learning Linux, VPS deployment & Docker
-- 🔒 Exploring cybersecurity & secure development
-- 🤖 Automating repetitive workflows
-- 📚 Always learning through real-world projects
+</div>
 
 ---
 
-## 🧠 Philosophy
+## 📌 Tentang Saya
 
-> **Build → Break → Fix → Learn → Repeat**
+Saya percaya bahwa cara terbaik untuk belajar teknologi adalah dengan **langsung membuat proyek nyata**, memecahkan masalah (*troubleshooting*), dan memahami hingga ke akar alasannya. 
 
-I believe the fastest way to improve is by creating real projects, solving actual problems, debugging everything that breaks, and understanding the reason behind every solution.
-
-Every repository on this profile represents something I've learned, experimented with, or built from scratch.
-
----
-
-# 💻 Tech Stack
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
-</p>
-
-### Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,docker,nginx,cloudflare" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,bash,postman" />
-</p>
+- 🌐 **Web Development:** Fokus pada arsitektur backend yang fleksibel dan UI yang bersih.
+- ☁️ **Infrastructure & Cloud:** Berpengalaman mengelola VPS, Linux administration, dan deployment.
+- ⚙️ **Automasi & Keamanan:** Menyederhanakan tugas berulang serta mendalami konsep *practical cyber security*.
 
 ---
 
-# 🚀 Featured Projects
+## 🛠️ Tech Stack & Tools
 
-### 📦 Inventory Management System
-
-Enterprise-scale inventory management system built using **React, TypeScript, Tailwind CSS, Laravel 11, and MySQL**.
-
-**Features**
-
-- Authentication & Role-Based Access
-- QR Code & Barcode Support
-- Stock In / Stock Out
-- Borrowing Management
-- Physical Stock Opname
-- Internal Real-Time Chat
-- Low Stock Notification
-- PDF & Excel Reports
-- Backup & Restore Database
-- Activity Logs
+| Kategori | Teknologi |
+| :--- | :--- |
+| **Backend** | <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql" height="40" /></a> |
+| **Frontend** | <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,tailwind" height="40" /></a> |
+| **Infrastructure** | <a href="#"><img src="https://skillicons.dev/icons?i=linux,nginx,docker,cloudflare" height="40" /></a> |
+| **Tools & OS** | <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,bash" height="40" /></a> |
 
 ---
 
-### 🤖 AI Resume Analyzer
+## 🚀 Fokus & Target Saat Ini
 
-AI-powered resume analyzer that evaluates ATS compatibility, matches resumes with job descriptions, and provides AI-generated improvement suggestions.
-
-**Tech Stack**
-
-React • Express.js • Tailwind CSS • Supabase • AI API
-
----
-
-### 🌐 School Information System
-
-A web platform for managing student directories, alumni, announcements, galleries, and administrative data with role-based authentication.
+- [ ] Membangun aplikasi web skala produksi (*production-ready*)
+- [ ] Memperdalam arsitektur backend & sistem terdistribusi
+- [ ] Belajar lebih dalam mengenai prinsip-prinsip DevOps & Cloud
+- [ ] Memperluas wawasan dalam *application security* (Defensive)
+- [ ] Mulai berkontribusi aktif ke proyek *Open Source*
 
 ---
 
-# 📊 GitHub Stats
+## 📈 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=msyafa-alg&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=msyafa-alg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msyafa-alg&layout=compact&theme=tokyonight&hide_border=true&hide=html,css"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msyafa-alg&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=msyafa-alg&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-# 🎯 Current Goals
+<div align="center">
 
-- Build production-ready applications
-- Improve backend architecture
-- Learn DevOps & Cloud Infrastructure
-- Master Linux Server Administration
-- Contribute to Open Source
+**"Always learning. Always building."**  
+*Terima kasih sudah mampir!* 👋
 
----
-
-# 🌐 Connect With Me
-
-<p>
-
-<a href="https://instagram.com/syafaalgiffari">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/syafa-algiffari-567a48375/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-### 💡 "Learning never stops. Every project is another step forward."
-
-⭐ Thanks for visiting my profile!
-
-</p>
+</div>
