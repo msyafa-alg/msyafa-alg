@@ -49,8 +49,6 @@ Saya percaya bahwa cara terbaik untuk belajar teknologi adalah dengan **langsung
 
 <!-- Alternatif Host 1 -->
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=msyafa-alg&show_icons=true&theme=tokyonight&hide_border=true" />
-<!-- Alternatif Host 2 (Anurag Hazra Official Backup) -->
-<img height="180em" src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api?username=msyafa-alg&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </div>
 
